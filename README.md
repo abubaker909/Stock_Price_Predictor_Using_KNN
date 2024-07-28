@@ -79,19 +79,13 @@ pip install pandas numpy matplotlib quandl scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abubaker909/google-stock-price-analysis.git
+git clone https://github.com/abubaker909/Stock_Price_Predictor_Using_KNN.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd google-stock-price-analysis
-```
-
-3. Run the analysis script:
-
-```bash
-python analysis.py
+cd Stock_Price_Predictor_Using_KNN
 ```
 
 ## Contributing
@@ -101,7 +95,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to better fit your project structure and additional details.
