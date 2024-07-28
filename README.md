@@ -79,7 +79,7 @@ pip install pandas numpy matplotlib quandl scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/google-stock-price-analysis.git
+git clone https://github.com/abubaker909/google-stock-price-analysis.git
 ```
 
 2. Navigate to the project directory:
